@@ -1,0 +1,7 @@
+opencv-python==4.5.4.58
+numpy==1.19.2
+torch==1.7.1
+keyboard==0.13.5
+pygetwindow==0.0.9
+pyHM==0.0.6
+pywin32==302
